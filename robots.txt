@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://artionco.github.io/sitemap
+Sitemap: https://artionco.github.io/app/sitemap
+Sitemap: https://artionco.github.io/assets/sitemap
+Sitemap: https://artionco.github.io/css/sitemap
+Sitemap: https://artionco.github.io/includes/sitemap
+Sitemap: https://artionco.github.io/item/sitemap
+Sitemap: https://artionco.github.io/src/sitemap
